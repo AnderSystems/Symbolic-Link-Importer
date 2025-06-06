@@ -21,11 +21,11 @@ A lightweight Unity Editor tool for creating **symbolic links** directly from th
 ## 📦 Installation
 
 ### Option 1 — Clone the repository:
-1. Navigate to your Unity project's `Assets/Editor/` folder.
-2. Open a terminal or Explorer window there.
-3. Run:
+1. Go to `Window/Package Management/Package Manager` or `Window/Package Manager`.
+2. Click on `+` and `Install package from git URL`
+3. Paste the repository URL on field:
    ```bash
-   git clone https://github.com/AnderSystems/SymbolicLinkImporter.git
+   https://github.com/AnderSystems/SymbolicLinkImporter.git
    ```
 
 ### Option 2 — Manual download:
