@@ -1,0 +1,20 @@
+{
+  "name": "com.andersystems.simboliclinkimporter",
+  "version": "1.1.1",
+  "displayName": "Simbolic Link Importer",
+  "description": "Import files and folders as symbolic link.",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.unity.inputsystem": "1.5.1",
+    "com.unity.ugui": "1.0.0"
+  },
+  "keywords": [
+    "input",
+    "custom",
+    "unity"
+  ],
+  "author": {
+    "name": "Marco Matoso",
+    "email": "socialander@gmail.com"
+  }
+}
