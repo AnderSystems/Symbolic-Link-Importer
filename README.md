@@ -4,9 +4,15 @@ A lightweight Unity Editor tool for creating **symbolic links** directly from th
 
 ---
 
-## 🧠 What is it?
+## 🔗 Features
 
-**Symbolic Link Importer** is a Unity Editor extension that lets you create symbolic links (symlinks) to files or folders outside your project, integrating them seamlessly into the Unity workflow.
+- Seamless symbolic link creation via the Unity Editor
+- Friendly interface to browse source and target paths
+- Works across Windows and Unix-based systems
+- Great for modular workflows, monorepos, and shared asset libraries
+
+🧩 Designed for Unity developers who need modular project structures, shared tools, or common codebases without duplicating content.
+⚠️ Use with caution: symbolic links may affect Unity’s asset database or cause unintended behavior if misused.
 
 ---
 
