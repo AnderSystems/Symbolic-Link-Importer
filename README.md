@@ -46,12 +46,18 @@ A lightweight Unity Editor tool for creating **symbolic links** directly from th
    ```
    Assets > Symbolic Link > Create Symbolic Link
    ```
+![Captura de tela 2025-06-11 125109](https://github.com/user-attachments/assets/5b257f8e-d525-4bbf-8308-7c27d95ba35c)
+
 3. Use the window to:
    - Select a **target path** inside your project
    - Choose the **source path** from your file system
+![Captura de tela 2025-06-11 125218](https://github.com/user-attachments/assets/1966f644-893c-4f29-97f6-151dfe2365a1)
+
 4. Click **Create Link**.
 
 Done. Your project will now reference the external file/folder as if it were local.
+![Captura de tela 2025-06-11 125328](https://github.com/user-attachments/assets/6def5dea-f257-4463-9066-db7abd175ae2)
+
 
 ---
 
